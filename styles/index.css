@@ -1,0 +1,19 @@
+body {
+    width: 100%;
+    font-family: "Ubuntu", Helvetica, sans-serif;
+}
+
+#main {
+    width: 800px;
+    height: auto;
+    margin: auto;
+}
+
+#main > h1 {
+    width: 510px;
+    height: 510px;
+    font-size: 200pt;
+    border: 1px solid black;
+    text-align: center;
+    vertical-align: middle;
+}
